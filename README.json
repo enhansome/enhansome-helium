@@ -1,0 +1,430 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "End Node Device App Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WisBlock Helium Mapper",
+          "description": "Fork of LoRaWAN Tracker modified to work with Helium Cargo and Mapper Ingest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-08-11T14:31:28Z",
+            "owner": "arkieguy",
+            "repo": "RAK4631-Helium-Mapper",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoRaWAN Tracker Example Code",
+          "description": "Really good example using WisBlocks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-04-10T07:46:33Z",
+            "owner": "beegee-tokyo",
+            "repo": "RAK4631-LPWAN-Tracker",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leroy's Updated & Unofficial CubeCell repo",
+          "description": "Heltec ASR650x; Heavily improved.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-25T15:42:22Z",
+            "owner": "leroyle",
+            "repo": "ASR650x-Arduino",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leroy's WisBlock sample code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-05-22T19:14:33Z",
+            "owner": "leroyle",
+            "repo": "longfi-platformio",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Development Environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WioHeliumMonitor",
+          "description": "Monitor your network and your hotspot with a hardware device based on WioTerminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-15T18:36:23Z",
+            "owner": "disk91",
+            "repo": "WioHeliumMonitor",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mock sensor code to send lorawan otta join",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-25T03:04:54Z",
+            "owner": "gradoj",
+            "repo": "sensor",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Explorers/Analytics/Hotspot Analysis/Monitoring"
+    },
+    {
+      "description": "Build tutorials",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "maco2035/DiyHeliumHotspots",
+          "description": "Collection of guides for setting up various builds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-11T19:44:08Z",
+            "owner": "maco2035",
+            "repo": "DiyHeliumHotspots",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "just4give/helium-dyi-hotspot-balena-pi4",
+          "description": "\"Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-11T12:28:55Z",
+            "owner": "just4give",
+            "repo": "helium-dyi-hotspot-balena-pi4",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIY Hotspot auto update automation scripts",
+          "description": "Wheaties466/helium_miner_scripts, automation for setting up DIY hotspots. All things DIY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-09-28T19:02:08Z",
+            "owner": "miqueet",
+            "repo": "helium_miner_scripts",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meshferg/lorawan-helium-diy-gateway_miner",
+          "description": "RAK2245 & rPi4 gateway miner collecting wetlands data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-22T20:56:31Z",
+            "owner": "meshferg",
+            "repo": "lorawan-helium-diy-gateway_miner",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottxrnife/helium-2287",
+          "description": "Above but for RAK2287-based builds, like the RAK Discover Kit 2 (SX1302-based chip)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-06-17T06:06:20Z",
+            "owner": "bottxrnife",
+            "repo": "helium-2287-w",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disk91/helium-gateway-rs-docker",
+          "description": "Manage DiY hotspot deployment at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-04T19:34:17Z",
+            "owner": "disk91",
+            "repo": "helium-gateway-rs-docker",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "23RoMax/h2b",
+          "description": "Helium DIY Hotspot Bootstrapping script with a few utilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-31T14:27:49Z",
+            "owner": "23RoMax",
+            "repo": "h2b",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamiew/helium-diy-hotspot",
+          "description": "Collection of shell scripts for setting up, updating, and monitoring a DIY hotspot",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-11-05T03:37:56Z",
+            "owner": "jamiew",
+            "repo": "helium-diy-hotspot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bottxrnife/helium-2245",
+          "description": "Forked from PastaGringo, BelanaCloud + docker-conmpose configuration for RAK2245-based builds, like the RAK Pilot Gateway (SX1301-based chip)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-01T23:23:35Z",
+            "owner": "bottxrnife",
+            "repo": "helium-2245",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dansku/helium-rak833-pisupply",
+          "description": "PiSupply LoRa Gateway with the RAK833 for Helium. Video tutorials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T08:51:32Z",
+            "owner": "dansku",
+            "repo": "helium-rak833-pisupply",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PastaGringo/balenaos-helium-gtw",
+          "description": "BelanaCloud-based build with docker-compose",
+          "children": []
+        }
+      ],
+      "title": "DIY Hotspots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Helium Decoder Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-01T23:41:46Z",
+            "owner": "helium",
+            "repo": "console-decoders",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helium Mapper Decoder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-08-11T14:31:28Z",
+            "owner": "arkieguy",
+            "repo": "RAK4631-Helium-Mapper",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolleyBoast VoBo GP1",
+          "description": "Decodes standard payload",
+          "children": []
+        }
+      ],
+      "title": "Payload Decoders"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Browan TBHV110 Quickstart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T13:13:23Z",
+            "owner": "mikedsp",
+            "repo": "helium",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browan TBHH100 Quickstart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T13:13:23Z",
+            "owner": "mikedsp",
+            "repo": "helium",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragino LT-22222-L- Helium 'Smart-Plug'",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-08T10:01:55Z",
+            "owner": "ilovespectra",
+            "repo": "ilovespectra",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAK Weather Monitor- US915 Setup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-03-08T10:01:55Z",
+            "owner": "ilovespectra",
+            "repo": "ilovespectra",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiCAD version of WisBlock-Sensor-RTC-Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-27T21:55:12Z",
+            "owner": "ManuIoT",
+            "repo": "WisBlock-Sensor-RTC-Example",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sensor Guides and Tutorial"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WioLoRaWanFieldTester",
+          "description": "Mapper using the Wio Terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-09T13:45:43Z",
+            "owner": "disk91",
+            "repo": "WioLoRaWANFieldTester",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CubeCell Helium Coverage Mapper",
+          "description": "Mapper using the CubeCell w/ GPS/OLED by jas-williams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-05-24T20:58:34Z",
+            "owner": "jas-williams",
+            "repo": "CubeCell-Helium-Mapper",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Coverage Mapping"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:04.304Z",
+    "original_repository": "dansku/awesome-helium",
+    "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",
+    "enhanced_repository": "enhansome/enhansome-helium",
+    "enhanced_repository_description": null,
+    "title": "Awesome helium with stars"
+  }
+}
