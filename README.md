@@ -95,7 +95,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 
 Build tutorials
 
-* [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) ⭐ 100 | 🐛 7 | 📅 2021-08-11 - Collection of guides for setting up various builds
+* [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) ⭐ 99 | 🐛 7 | 📅 2021-08-11 - Collection of guides for setting up various builds
 
 * [just4give/helium-dyi-hotspot-balena-pi4](https://github.com/just4give/helium-dyi-hotspot-balena-pi4) ⭐ 86 | 🐛 10 | 🌐 C | 📅 2024-01-11 - "Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS"
 
@@ -213,4 +213,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

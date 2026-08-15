@@ -120,7 +120,7 @@
             "last_commit": "2021-08-11T19:44:08Z",
             "owner": "maco2035",
             "repo": "DiyHeliumHotspots",
-            "stars": 100
+            "stars": 99
           }
         },
         {
@@ -420,7 +420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:10:48.427Z",
+    "last_updated": "2026-08-15T14:42:49.265Z",
     "original_repository": "dansku/awesome-helium",
     "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",
     "enhanced_repository": "enhansome/enhansome-helium",
