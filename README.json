@@ -410,7 +410,7 @@
                 "last_commit": "2024-06-09T13:45:43Z",
                 "owner": "disk91",
                 "repo": "WioLoRaWANFieldTester",
-                "stars": 90
+                "stars": 89
               }
             },
             {
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:42:46.774Z",
+    "last_updated": "2026-08-23T14:44:21.979Z",
     "original_repository": "dansku/awesome-helium",
     "original_repository_id": 295801027,
     "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",

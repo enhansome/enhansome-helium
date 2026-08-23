@@ -157,7 +157,7 @@ Build tutorials
 
 ### Coverage Mapping
 
-* [WioLoRaWanFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) ⭐ 90 | 🐛 17 | 🌐 C++ | 📅 2024-06-09 - Mapper using the Wio Terminal.
+* [WioLoRaWanFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) ⭐ 89 | 🐛 17 | 🌐 C++ | 📅 2024-06-09 - Mapper using the Wio Terminal.
 * [CubeCell Helium Coverage Mapper](https://github.com/jas-williams/CubeCell-Helium-Mapper) ⭐ 49 | 🐛 3 | 🌐 C++ | 📅 2022-05-24 - Mapper using the [CubeCell w/ GPS/OLED](https://shop.parleylabs.com/collections/heltec-cubecell/products/cubecell-gps-6502-by-heltec-htcc-ab02s) by jas-williams
 
 ### Antennas
@@ -213,4 +213,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
