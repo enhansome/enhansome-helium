@@ -6,6 +6,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Blockchain Sync Progress Script",
+              "description": "Bash script to get the current progress of your Helium miner running via docker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307832852,
+                "language": "Shell",
+                "last_commit": "2020-10-29T02:19:06Z",
+                "owner": "Doginal",
+                "repo": "helium-network-scripts",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker Miner"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -113,6 +135,50 @@
           "description": null,
           "node_type": "group",
           "title": "Explorers/Analytics/Hotspot Analysis/Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Helium for Home Assistant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373370853,
+                "language": "Python",
+                "last_commit": "2023-04-11T15:56:11Z",
+                "owner": "homeassistant-projects",
+                "repo": "hass-helium",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Home Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unofficial Hotspot Utility",
+              "description": "Unofficial Android/iPhone Hotspot Utility",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 286911574,
+                "language": "Dart",
+                "last_commit": "2022-06-30T04:42:10Z",
+                "owner": "kent-williams",
+                "repo": "hotspot-utility",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Apps"
         },
         {
           "children": [
@@ -438,7 +504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:44:21.979Z",
+    "last_updated": "2026-08-24T14:46:13.876Z",
     "original_repository": "dansku/awesome-helium",
     "original_repository_id": 295801027,
     "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",
