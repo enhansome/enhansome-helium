@@ -504,9 +504,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:18.017Z",
-    "original_repository": "dansku/awesome-helium",
-    "original_repository_id": 295801027,
+    "last_updated": "2026-08-27T11:44:21.059Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 295801027,
+      "language": null,
+      "last_commit": "2023-04-15T16:40:06Z",
+      "owner": "dansku",
+      "repo": "awesome-helium",
+      "stars": 81
+    },
     "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",
     "enhanced_repository": "enhansome/enhansome-helium",
     "enhanced_repository_description": null,
