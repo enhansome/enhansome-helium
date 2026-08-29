@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 307832852,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-10-29T02:19:06Z",
+                "open_issues": 0,
                 "owner": "Doginal",
                 "repo": "helium-network-scripts",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -37,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example code for a LPWAN tracker based on the RAK WisBlock products",
+                    "homepage": null,
                     "id": 360632035,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-08-11T14:31:28Z",
+                    "open_issues": 0,
                     "owner": "arkieguy",
                     "repo": "RAK4631-Helium-Mapper",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:06.105Z"
                 },
@@ -53,12 +63,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example code for a LPWAN tracker based on the RAK WisBlock products",
+                    "homepage": null,
                     "id": 317721748,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-04-10T07:46:33Z",
+                    "open_issues": 0,
                     "owner": "beegee-tokyo",
                     "repo": "RAK4631-LPWAN-Tracker",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:06.105Z"
                 },
@@ -69,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Heltec CubeCell Series (based on ASR6501, ASR6502 chip) Arduino support.",
+                    "homepage": null,
                     "id": 293383619,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2021-03-25T15:42:22Z",
+                    "open_issues": 1,
                     "owner": "leroyle",
                     "repo": "ASR650x-Arduino",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:06.105Z"
                 },
@@ -85,12 +105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 356596091,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2021-05-22T19:14:33Z",
+                    "open_issues": 0,
                     "owner": "leroyle",
                     "repo": "longfi-platformio",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:06.105Z"
                 }
@@ -113,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monitor your Helium hotspot with a Wio Terminal",
+                "homepage": null,
                 "id": 472111789,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-05-15T18:36:23Z",
+                "open_issues": 0,
                 "owner": "disk91",
                 "repo": "WioHeliumMonitor",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -129,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mock sensor code to send lorawan otta join command from gateway",
+                "homepage": null,
                 "id": 298451680,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-25T03:04:54Z",
+                "open_issues": 0,
                 "owner": "gradoj",
                 "repo": "sensor",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -152,12 +187,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helium blockchain sensors for Home Assistant",
+                "homepage": null,
                 "id": 373370853,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-11T15:56:11Z",
+                "open_issues": 2,
                 "owner": "homeassistant-projects",
                 "repo": "hass-helium",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "helium",
+                  "helium-blockchain",
+                  "homeassistant",
+                  "lorawan",
+                  "lorawan-network"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -175,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unofficial Helium Hotspot Utility Mobile App for iOS and Android built with Flutter",
+                "homepage": null,
                 "id": 286911574,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2022-06-30T04:42:10Z",
+                "open_issues": 0,
                 "owner": "kent-williams",
                 "repo": "hotspot-utility",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -198,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Here is a guide to build your own hotspots!",
+                "homepage": null,
                 "id": 295455624,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-11T19:44:08Z",
+                "open_issues": 7,
                 "owner": "maco2035",
                 "repo": "DiyHeliumHotspots",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -214,12 +270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 281151265,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-01-11T12:28:55Z",
+                "open_issues": 10,
                 "owner": "just4give",
                 "repo": "helium-dyi-hotspot-balena-pi4",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -230,12 +291,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo was made out of the need to auto update DIY helium miners",
+                "homepage": null,
                 "id": 281685967,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-09-28T19:02:08Z",
+                "open_issues": 0,
                 "owner": "miqueet",
                 "repo": "helium_miner_scripts",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "cron",
+                  "curl",
+                  "docker",
+                  "helium",
+                  "jq",
+                  "linux",
+                  "miner"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -246,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description of my DIY helium gateway & miner hardware.",
+                "homepage": null,
                 "id": 298853013,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-10-22T20:56:31Z",
+                "open_issues": 2,
                 "owner": "meshferg",
                 "repo": "lorawan-helium-diy-gateway_miner",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -262,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 298450376,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-06-17T06:06:20Z",
+                "open_issues": 3,
                 "owner": "bottxrnife",
                 "repo": "helium-2287-w",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -278,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 414371116,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-06-04T19:34:17Z",
+                "open_issues": 1,
                 "owner": "disk91",
                 "repo": "helium-gateway-rs-docker",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -294,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helium hotspot bootstrapper",
+                "homepage": null,
                 "id": 262877335,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-05-31T14:27:49Z",
+                "open_issues": 0,
                 "owner": "23RoMax",
                 "repo": "h2b",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -310,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 296631212,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2020-11-05T03:37:56Z",
+                "open_issues": 0,
                 "owner": "jamiew",
                 "repo": "helium-diy-hotspot",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -326,12 +425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 292905810,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-10-01T23:23:35Z",
+                "open_issues": 0,
                 "owner": "bottxrnife",
                 "repo": "helium-2245",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -342,12 +446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Setup a RAK833 with PiSupply HAT",
+                "homepage": null,
                 "id": 292215774,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-02T08:51:32Z",
+                "open_issues": 0,
                 "owner": "dansku",
                 "repo": "helium-rak833-pisupply",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -365,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Payload decoder functions for console.",
+                "homepage": null,
                 "id": 260008253,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-01T23:41:46Z",
+                "open_issues": 19,
                 "owner": "helium",
                 "repo": "console-decoders",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -381,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example code for a LPWAN tracker based on the RAK WisBlock products",
+                "homepage": null,
                 "id": 360632035,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-08-11T14:31:28Z",
+                "open_issues": 0,
                 "owner": "arkieguy",
                 "repo": "RAK4631-Helium-Mapper",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -410,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mike's Helium development work",
+                "homepage": null,
                 "id": 286711172,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-05T13:13:23Z",
+                "open_issues": 0,
                 "owner": "mikedsp",
                 "repo": "helium",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -426,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mike's Helium development work",
+                "homepage": null,
                 "id": 286711172,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-05T13:13:23Z",
+                "open_issues": 0,
                 "owner": "mikedsp",
                 "repo": "helium",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -442,12 +571,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Config files for my GitHub profile.",
+                "homepage": "https://github.com/ilovespectra",
                 "id": 456508686,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-03-08T10:01:55Z",
+                "open_issues": 0,
                 "owner": "ilovespectra",
                 "repo": "ilovespectra",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "config",
+                  "github-config"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -458,12 +595,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Config files for my GitHub profile.",
+                "homepage": "https://github.com/ilovespectra",
                 "id": 456508686,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-03-08T10:01:55Z",
+                "open_issues": 0,
                 "owner": "ilovespectra",
                 "repo": "ilovespectra",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "config",
+                  "github-config"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -474,12 +619,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a KiCAD version of the WisBlock-Sensor-RTC-Example original from Eagle files [RAKwireless WisBlock](https://docs.rakwireless.com/Product-Categories/WisBlock/",
+                "homepage": null,
                 "id": 316386176,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-11-27T21:55:12Z",
+                "open_issues": 1,
                 "owner": "ManuIoT",
                 "repo": "WisBlock-Sensor-RTC-Example",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "kicad",
+                  "wisblock"
+                ]
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -497,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 359595053,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2024-06-09T13:45:43Z",
+                "open_issues": 17,
                 "owner": "disk91",
                 "repo": "WioLoRaWANFieldTester",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             },
@@ -513,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 313948173,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-05-24T20:58:34Z",
+                "open_issues": 3,
                 "owner": "jas-williams",
                 "repo": "CubeCell-Helium-Mapper",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
             }
@@ -532,15 +695,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:06.105Z",
+    "last_updated": "2026-08-29T05:01:22.993Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list related to the helium ecosystem",
+      "homepage": null,
       "id": 295801027,
       "language": null,
+      "license": null,
       "last_commit": "2023-04-15T16:40:06Z",
+      "open_issues": 2,
       "owner": "dansku",
       "repo": "awesome-helium",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "c60185d6d466d231eff1e5aef20b78eba4d75db8",
     "enhanced_repository": "enhansome/enhansome-helium",
