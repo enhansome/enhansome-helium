@@ -101,7 +101,7 @@
                 {
                   "node_type": "item",
                   "title": "Leroy's WisBlock sample code",
-                  "description": null,
+                  "description": "leroyle/longfi-platformio",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -155,7 +155,7 @@
             {
               "node_type": "item",
               "title": "Mock sensor code to send lorawan otta join",
-              "description": null,
+              "description": "gradoj/sensor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -183,7 +183,7 @@
             {
               "node_type": "item",
               "title": "Helium for Home Assistant",
-              "description": null,
+              "description": "homeassistant-projects/hass-helium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "Helium Decoder Repo",
-              "description": null,
+              "description": "helium/console-decoders",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "Helium Mapper Decoder",
-              "description": null,
+              "description": "arkieguy/RAK4631-Helium-Mapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
             {
               "node_type": "item",
               "title": "Browan TBHV110 Quickstart",
-              "description": null,
+              "description": "mikedsp/helium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +546,7 @@
             {
               "node_type": "item",
               "title": "Browan TBHH100 Quickstart",
-              "description": null,
+              "description": "mikedsp/helium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "Dragino LT-22222-L- Helium 'Smart-Plug'",
-              "description": null,
+              "description": "ilovespectra/ilovespectra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -591,7 +591,7 @@
             {
               "node_type": "item",
               "title": "RAK Weather Monitor- US915 Setup",
-              "description": null,
+              "description": "ilovespectra/ilovespectra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -615,7 +615,7 @@
             {
               "node_type": "item",
               "title": "KiCAD version of WisBlock-Sensor-RTC-Example",
-              "description": null,
+              "description": "ManuIoT/WisBlock-Sensor-RTC-Example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:24:02.132Z",
+    "last_updated": "2026-10-03T04:48:11.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list related to the helium ecosystem",
