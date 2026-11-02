@@ -258,7 +258,7 @@
                 "open_issues": 7,
                 "owner": "maco2035",
                 "repo": "DiyHeliumHotspots",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:59:33.889Z",
+    "last_updated": "2026-11-02T22:48:51.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list related to the helium ecosystem",
