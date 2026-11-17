@@ -34,7 +34,7 @@ A curated list of all helium projects, tutorials, and resources.
 
 #### Development Environments
 
-* [WisBlock Helium Mapper](https://github.com/arkieguy/RAK4631-Helium-Mapper) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2021-08-11 - Fork of LoRaWAN Tracker modified to work with Helium Cargo and Mapper Ingest.
+* [WisBlock Helium Mapper](https://github.com/arkieguy/RAK4631-Helium-Mapper) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2021-08-11 - Fork of LoRaWAN Tracker modified to work with Helium Cargo and Mapper Ingest.
 * [LoRaWAN Tracker Example Code](https://github.com/beegee-tokyo/RAK4631-LPWAN-Tracker) ⭐ 10 | 🐛 0 | 🌐 C++ | 📅 2021-04-10 - Really good example using WisBlocks
 * [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2021-03-25 - Heltec ASR650x; Heavily improved.
 * [Leroy's WisBlock sample code](https://github.com/leroyle/longfi-platformio/tree/master/RAKWireless-WisBlock) ⭐ 1 | 🐛 0 | 🌐 C++ | 📅 2021-05-22
@@ -127,7 +127,7 @@ Build tutorials
 ### Payload Decoders
 
 * [Helium Decoder Repo](https://github.com/helium/console-decoders) ⭐ 62 | 🐛 19 | 🌐 JavaScript | 📅 2023-12-01
-* [Helium Mapper Decoder](https://github.com/arkieguy/RAK4631-Helium-Mapper/tree/main/.vscode/HeliumDecoder) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2021-08-11
+* [Helium Mapper Decoder](https://github.com/arkieguy/RAK4631-Helium-Mapper/tree/main/.vscode/HeliumDecoder) ⭐ 15 | 🐛 0 | 🌐 C++ | 📅 2021-08-11
 * [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload
 
 ## Hardware
@@ -213,4 +213,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

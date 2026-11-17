@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "arkieguy",
                     "repo": "RAK4631-Helium-Mapper",
-                    "stars": 16,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:35:06.105Z"
@@ -504,7 +504,7 @@
                 "open_issues": 0,
                 "owner": "arkieguy",
                 "repo": "RAK4631-Helium-Mapper",
-                "stars": 16,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:26:28.329Z",
+    "last_updated": "2026-11-17T22:29:15.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list related to the helium ecosystem",
