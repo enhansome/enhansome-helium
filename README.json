@@ -566,54 +566,6 @@
             },
             {
               "node_type": "item",
-              "title": "Dragino LT-22222-L- Helium 'Smart-Plug'",
-              "description": "ilovespectra/ilovespectra",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Config files for my GitHub profile.",
-                "homepage": "https://github.com/ilovespectra",
-                "id": 456508686,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2025-03-08T10:01:55Z",
-                "open_issues": 0,
-                "owner": "ilovespectra",
-                "repo": "ilovespectra",
-                "stars": 4,
-                "topics": [
-                  "config",
-                  "github-config"
-                ]
-              },
-              "first_seen": "2026-08-28T23:35:06.105Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RAK Weather Monitor- US915 Setup",
-              "description": "ilovespectra/ilovespectra",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Config files for my GitHub profile.",
-                "homepage": "https://github.com/ilovespectra",
-                "id": 456508686,
-                "language": "C++",
-                "license": null,
-                "last_commit": "2025-03-08T10:01:55Z",
-                "open_issues": 0,
-                "owner": "ilovespectra",
-                "repo": "ilovespectra",
-                "stars": 4,
-                "topics": [
-                  "config",
-                  "github-config"
-                ]
-              },
-              "first_seen": "2026-08-28T23:35:06.105Z"
-            },
-            {
-              "node_type": "item",
               "title": "KiCAD version of WisBlock-Sensor-RTC-Example",
               "description": "ManuIoT/WisBlock-Sensor-RTC-Example",
               "children": [],
@@ -695,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:07:28.534Z",
+    "last_updated": "2026-11-19T22:16:50.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list related to the helium ecosystem",
@@ -704,7 +656,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-04-15T16:40:06Z",
-      "open_issues": 2,
+      "open_issues": 1,
       "owner": "dansku",
       "repo": "awesome-helium",
       "stars": 81,

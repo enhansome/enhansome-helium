@@ -150,10 +150,10 @@ Build tutorials
 
 * [Browan TBHV110 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/BrowanTBHV110_HeliumQuickStart-SHARE.pdf) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05
 * [Browan TBHH100 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-05
-* [Dragino LT-22222-L- Helium 'Smart-Plug'](https://github.com/ilovespectra/ilovespectra/tree/main/LT-22222-L) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2025-03-08
-* [RAK Weather Monitor- US915 Setup](https://github.com/ilovespectra/ilovespectra/tree/main/RAK4631/Weather-Monitor) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2025-03-08
 * [KiCAD version of WisBlock-Sensor-RTC-Example](https://github.com/ManuIoT/WisBlock-Sensor-RTC-Example) ⭐ 1 | 🐛 1 | 📅 2020-11-27
 * [Connect a RAK7204 to Helium and forward its data to Ubidots](https://www.hackster.io/mariacarlinahernandez/connect-a-rak7204-to-helium-and-forward-its-data-to-ubidots-073793)
+* [Dragino LT-22222-L- Helium 'Smart-Plug'](https://github.com/ilovespectra/ilovespectra/tree/main/LT-22222-L)
+* [RAK Weather Monitor- US915 Setup](https://github.com/ilovespectra/ilovespectra/tree/main/RAK4631/Weather-Monitor)
 
 ### Coverage Mapping
 
@@ -213,4 +213,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
