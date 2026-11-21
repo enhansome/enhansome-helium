@@ -279,7 +279,7 @@
                 "open_issues": 10,
                 "owner": "just4give",
                 "repo": "helium-dyi-hotspot-balena-pi4",
-                "stars": 86,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:35:06.105Z"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:16:50.388Z",
+    "last_updated": "2026-11-21T20:35:18.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list related to the helium ecosystem",
